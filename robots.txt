@@ -1,0 +1,3 @@
+Disallow: admin.php
+
+/* wow such recon */
