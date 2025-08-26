@@ -19,6 +19,7 @@ CREATE TABLE messages(
 NOTE: set a password for the sql server and insert it into handle_database_conn.php
 
 3. install php
-4. navigate to the cookie bakery directory and start a php server with the command 
+4. Install puppeteer with npm
+5. navigate to the cookie bakery directory and start a php server with the command 
 ```php -S 127.0.0.1:8000```
-5. That's all, now you just need to enjoy your cookies!
+6. That's all, now you just need to enjoy your cookies!
